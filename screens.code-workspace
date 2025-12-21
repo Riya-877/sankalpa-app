@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "screens"
+		},
+		{
+			"path": ".expo"
+		},
+		{
+			"path": ".git"
+		},
+		{
+			"path": "node_modules"
+		},
+		{
+			"path": "assets"
+		}
+	]
+}
